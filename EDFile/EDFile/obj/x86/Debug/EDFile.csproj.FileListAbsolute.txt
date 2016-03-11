@@ -1,0 +1,20 @@
+E:\Visual Studio 2010\EDFile\EDFile\bin\Debug\EDFile.exe
+E:\Visual Studio 2010\EDFile\EDFile\bin\Debug\EDFile.pdb
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\EDFile.Form1.resources
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\EDFile.Properties.Resources.resources
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.read.2.tlog
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\EDFile.exe
+E:\Visual Studio 2010\EDFile\EDFile\obj\x86\Debug\EDFile.pdb
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\EDFile.exe
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\EDFile.pdb
+D:\smandroid程序\EDFile\EDFile\bin\Debug\EDFile.exe
+D:\smandroid程序\EDFile\EDFile\bin\Debug\EDFile.pdb
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\EDFile.Form1.resources
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\EDFile.Properties.Resources.resources
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.read.2.tlog
+D:\smandroid程序\EDFile\EDFile\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
