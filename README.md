@@ -1,3 +1,5 @@
 # VSRepo
 Visual Studio Workspaces:
-VS2013 & VS2015
+VS6.0
+VS2013
+VS2015
